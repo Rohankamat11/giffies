@@ -1,0 +1,48 @@
+#heading{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#heading ul{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading ul li a{
+font-size: 1rem;
+padding: 0px 7px;
+padding-bottom: 8px;
+}
+
+#home {
+    line-height: normal;
+
+}
+
+#home h1{
+    margin-top: 300px;
+   
+}
+
+#articles{
+    flex-direction: column;
+}
+
+.post{
+    padding: 14px;
+    margin: 2px 0px;
+    margin-bottom: 10px;
+}
+#contact form input{
+    width: 330px;
+}
+
+#contact form textarea{
+    width: 330px;
+}
+
+.submit{
+    width: 330px;
+}
+
